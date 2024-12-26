@@ -1,7 +1,7 @@
 {
-  "net.clayborn.accurateblockplacement.togglevanillaplacement": "Toggle Placement Mode",
-  "net.clayborn.accurateblockplacement.modplacementmodemessage": "Accurate block placement mode is now enabled!",
-  "net.clayborn.accurateblockplacement.vanillaplacementmodemessage": "Vanilla block placement mode is now enabled!",
+  "net.clayborn.accurateblockplacement.togglevanillaplacement": "Alternar o modo de posicionamento",
+  "net.clayborn.accurateblockplacement.modplacementmodemessage": "O modo de posicionamento preciso de blocos agora está ativado!",
+  "net.clayborn.accurateblockplacement.vanillaplacementmodemessage": "O modo de disposição de blocos Vanilla agora está ativado!",
   "net.clayborn.accurateblockplacement.togglefastbreaking": "Toggle Breaking Mode",
   "net.clayborn.accurateblockplacement.fastbreakingenabled": "Fast block breaking mode is now enabled!",
   "net.clayborn.accurateblockplacement.fastbreakingdisabled": "Vanilla block breaking mode is now enabled!",
